@@ -1,0 +1,35 @@
+{
+  "title": "Room Rack",
+  "status": {
+    "available": "Available",
+    "occupied": "Occupied",
+    "dirty": "Dirty",
+    "cleaning": "Cleaning",
+    "inspected": "Inspected",
+    "maintenance": "Maintenance",
+    "ooo": "Out of Order",
+    "oos": "Out of Service"
+  },
+  "type": {
+    "standard": "Standard",
+    "deluxe": "Deluxe",
+    "suite": "Suite",
+    "presidential": "Presidential Suite"
+  },
+  "filters": {
+    "allStatuses": "All Statuses",
+    "allTypes": "All Types",
+    "allFloors": "All Floors"
+  },
+  "details": {
+    "roomNumber": "Room Number",
+    "floor": "Floor",
+    "capacity": "Capacity",
+    "rate": "Rate",
+    "guest": "Guest",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "amenities": "Amenities",
+    "lastCleaned": "Last Cleaned"
+  }
+}

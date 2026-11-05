@@ -1,0 +1,85 @@
+{
+  "title": "CEO Dashboard",
+  "todaySnapshot": "Today's Snapshot",
+  "greeting": "Good Morning, Ahmed!",
+  "subgreeting": "Here's your live hotel overview for {{date}} • {{hotel}}",
+  "weather": {
+    "temp": "28°C",
+    "location": "Doha, Qatar"
+  },
+  "kpi": {
+    "occupancy": "Occupancy Rate",
+    "occupancyDetail": "Occupancy Rate ({{occupied}}/{{total}})",
+    "revenue": "Live Revenue Today",
+    "arrivals": "Expected Arrivals",
+    "departures": "Due Out / In-House",
+    "adr": "ADR",
+    "revpar": "RevPAR",
+    "checkIns": "Check-ins",
+    "checkOuts": "Check-outs",
+    "bookings": "Bookings",
+    "available": "Available Rooms",
+    "pendingArrivals": "Pending Arrivals",
+    "totalGuests": "Total Guests",
+    "employees": "Employees",
+    "presentToday": "Present Today",
+    "onLeave": "On Leave",
+    "absent": "Absent",
+    "maintenanceTickets": "Open Tickets",
+    "cancellationRate": "Cancellation Rate"
+  },
+  "trends": {
+    "vsYesterday": "+2% vs yesterday",
+    "pickup": "+8% pickup",
+    "activeStays": "Active Stays",
+    "liveConnected": "Live Connected"
+  },
+  "sections": {
+    "hotelPerformance": "Hotel Performance",
+    "roomStatus": "Room Status",
+    "liveActivity": "Live Hotel Activity",
+    "realTime": "Real-Time",
+    "upcomingArrivals": "Upcoming Arrivals",
+    "inHouseGuests": "In-House Guests / Due Out",
+    "premiumExperience": "Premium Experience",
+    "premiumDesc": "Delivering exceptional stays with world-class service.",
+    "totalRooms": "Total Rooms",
+    "viewAll": "View All",
+    "viewDetails": "View Details"
+  },
+  "table": {
+    "booking": "Booking",
+    "guestName": "Guest Name",
+    "room": "Room",
+    "status": "Status",
+    "expected": "Expected",
+    "pending": "Pending",
+    "inHouse": "In-House"
+  },
+  "legend": {
+    "occupancyPct": "Occupancy %",
+    "adr": "ADR (QAR)"
+  },
+  "roomStatusLabels": {
+    "available": "Available",
+    "occupied": "Occupied",
+    "dirty": "Dirty",
+    "ooo": "OOS / OOO"
+  },
+  "charts": {
+    "revenueTrend": "Revenue Trend",
+    "occupancyTrend": "Occupancy Trend",
+    "bookingSources": "Booking Sources",
+    "revenueByType": "Revenue by Room Type",
+    "revenueByDepartment": "Revenue by Department"
+  },
+  "periods": {
+    "today": "Today",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "thisQuarter": "This Quarter",
+    "thisYear": "This Year",
+    "custom": "Custom",
+    "last7days": "Last 7 Days"
+  }
+}

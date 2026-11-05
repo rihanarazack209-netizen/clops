@@ -1,0 +1,35 @@
+{
+  "title": "لوحة الغرف",
+  "status": {
+    "available": "متاحة",
+    "occupied": "مشغولة",
+    "dirty": "تحتاج تنظيف",
+    "cleaning": "قيد التنظيف",
+    "inspected": "تم الفحص",
+    "maintenance": "صيانة",
+    "ooo": "خارج الخدمة",
+    "oos": "خارج النظام"
+  },
+  "type": {
+    "standard": "عادية",
+    "deluxe": "ديلوكس",
+    "suite": "جناح",
+    "presidential": "الجناح الرئاسي"
+  },
+  "filters": {
+    "allStatuses": "جميع الحالات",
+    "allTypes": "جميع الأنواع",
+    "allFloors": "جميع الطوابق"
+  },
+  "details": {
+    "roomNumber": "رقم الغرفة",
+    "floor": "الطابق",
+    "capacity": "السعة",
+    "rate": "السعر",
+    "guest": "الضيف",
+    "checkIn": "تسجيل الوصول",
+    "checkOut": "تسجيل المغادرة",
+    "amenities": "المرافق",
+    "lastCleaned": "آخر تنظيف"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "لوحة تحكم الرئيس التنفيذي",
+  "todaySnapshot": "لمحة اليوم",
+  "greeting": "صباح الخير، أحمد!",
+  "subgreeting": "إليك نظرة عامة مباشرة على الفندق لـ {{date}} • {{hotel}}",
+  "weather": {
+    "temp": "28°م",
+    "location": "الدوحة، قطر"
+  },
+  "kpi": {
+    "occupancy": "نسبة الإشغال",
+    "occupancyDetail": "نسبة الإشغال ({{occupied}}/{{total}})",
+    "revenue": "الإيرادات المباشرة اليوم",
+    "arrivals": "الوصول المتوقع",
+    "departures": "المغادرة / داخل الفندق",
+    "adr": "متوسط سعر الغرفة",
+    "revpar": "إيراد الغرفة المتاحة",
+    "checkIns": "تسجيل الوصول",
+    "checkOuts": "تسجيل المغادرة",
+    "bookings": "الحجوزات",
+    "available": "الغرف المتاحة",
+    "pendingArrivals": "الوصول المعلق",
+    "totalGuests": "إجمالي الضيوف",
+    "employees": "الموظفون",
+    "presentToday": "حاضرون اليوم",
+    "onLeave": "في إجازة",
+    "absent": "غائبون",
+    "maintenanceTickets": "تذاكر مفتوحة",
+    "cancellationRate": "معدل الإلغاء"
+  },
+  "trends": {
+    "vsYesterday": "↑ +2% مقارنة بالأمس",
+    "pickup": "↑ +8% حجوزات",
+    "activeStays": "إقامات نشطة",
+    "liveConnected": "متصل مباشرة"
+  },
+  "sections": {
+    "hotelPerformance": "أداء الفندق",
+    "roomStatus": "حالة الغرف",
+    "liveActivity": "النشاط الفندقي المباشر",
+    "realTime": "مباشر",
+    "upcomingArrivals": "الوصول القادم",
+    "inHouseGuests": "الضيوف داخل الفندق / المغادرة",
+    "premiumExperience": "تجربة متميزة",
+    "premiumDesc": "تقديم إقامات استثنائية بخدمة عالمية المستوى.",
+    "totalRooms": "إجمالي الغرف",
+    "viewAll": "عرض الكل",
+    "viewDetails": "عرض التفاصيل"
+  },
+  "table": {
+    "booking": "الحجز",
+    "guestName": "اسم الضيف",
+    "room": "الغرفة",
+    "status": "الحالة",
+    "expected": "متوقع",
+    "pending": "معلق",
+    "inHouse": "داخل الفندق"
+  },
+  "legend": {
+    "occupancyPct": "نسبة الإشغال %",
+    "adr": "متوسط السعر (ر.ق)"
+  },
+  "roomStatusLabels": {
+    "available": "متاحة",
+    "occupied": "مشغولة",
+    "dirty": "تحتاج تنظيف",
+    "ooo": "خارج الخدمة"
+  },
+  "charts": {
+    "revenueTrend": "اتجاه الإيرادات",
+    "occupancyTrend": "اتجاه الإشغال",
+    "bookingSources": "مصادر الحجز",
+    "revenueByType": "الإيرادات حسب نوع الغرفة",
+    "revenueByDepartment": "الإيرادات حسب القسم"
+  },
+  "periods": {
+    "today": "اليوم",
+    "thisWeek": "هذا الأسبوع",
+    "thisMonth": "هذا الشهر",
+    "thisQuarter": "هذا الربع",
+    "thisYear": "هذا العام",
+    "custom": "مخصص",
+    "last7days": "آخر 7 أيام"
+  }
+}
